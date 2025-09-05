@@ -1,2 +1,8 @@
-Sở thích: ...
+<<<<<<< HEAD
+Ho va ten: Huynh Chi Phuc
+So thich: code ngay code dem
+Ky nang: code xuyen dem
+=======
+Sở thích: Không có biết
 Kỹ năng: Code xuyen dem
+>>>>>>> feature-update-A

@@ -1,3 +1,3 @@
-# Git Practice xin chào anh trai
-
-Giới thiệu: Tôi là <Huỳnh Chí Phúc>, MSSV <220539>. tui đó
+Ho va ten: Huynh Chi Phuc
+So thich: code ngay code dem
+Ky nang: code xuyen dem

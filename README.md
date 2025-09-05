@@ -1,3 +1,3 @@
-# Git Practice hello world
-
-Giới thiệu: Tôi là <Huỳnh Chí Phúc>, MSSV <220539>. salala là la
+Ho va ten: Huynh Chi Phuc
+So thich: code ngay code dem
+Ky nang: code xuyen dem
